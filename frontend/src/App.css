@@ -1,0 +1,26 @@
+.app-container {
+    position: absolute;
+    top: 50px; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: auto; 
+    padding: 20px; 
+    background-image: url('./background.jpg');
+    background-size: cover;
+    background-position: center;
+    /* filter: blur(10px);  */
+  }
+
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+  }
+  
+  .route-content {
+    height: 100%;
+  }
+  

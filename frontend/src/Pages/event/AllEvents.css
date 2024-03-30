@@ -1,0 +1,13 @@
+.row{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 35px;
+    
+}
+
+.card{
+    padding: 15px;
+}
